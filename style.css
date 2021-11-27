@@ -203,7 +203,7 @@ section .title::after
 /*sessão.sobre*/
 .about  .title::after
 {
-    content: "Quem sou eu ";
+    content: "Sobre nossa empresa";
 }
 .about .about-content .left
 {
@@ -309,7 +309,7 @@ section .title::after
 /*sessão especialidades*/
 .skills .title::after
 {
-    content: "Que faço";
+    content: "Principais linguagens da empresa";
 }
 .skills .skills-content .column
 {

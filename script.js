@@ -15,13 +15,13 @@ $(document).ready(function(){
     });
 
     var typed  = new Typed(".typing-2", {
-        strings:["Desenvolvedor","Front-end","Designer","Freelancer"],
+        strings:["Engenharia de Software","Informática","Front-end","Designer","Freelances"],
         typeSpeed:100,
         backSpeed:60,
         loop:true
     });
     var typed  = new Typed(".typing", {
-        strings:["Desenvolvedor","Front-end","Designer","Freelancer"],
+        strings:["Engenharia de Software","Informática","Front-end","Anúncios","Freelances"],
         typeSpeed:100,
         backSpeed:60,
         loop:true
